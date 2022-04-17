@@ -1,0 +1,32 @@
+Receipt INT-001
+
+John Smith
+
+4490 Oak Drive
+Albany, NY 12210
+
+Bill To Ship To Receipt Date 11/02/2019
+Jessie M Horne Jessie M Home Pot 2412/2019
+New Yo HY 1031 New Yo NY 1001 Due ate aunt
+ay Description Unit Price Amount
+
+1 Front and rear brake cables, 100.00 100.00
+2 New set of pedal arms 25.00 50.00
+3 Labor 3hrs 18.00 45.00
+Subtotal 195.00
+
+Sales Tax 5.0% 975
+
+Total $204.75
+
+Swit
+
+Terms & Conditions
+
+Payment is due within 15 days
+
+Name of Bank
+‘Account number: 1234567890
+Routing: 098765432
+
+
